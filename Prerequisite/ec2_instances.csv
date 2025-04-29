@@ -1,0 +1,9 @@
+Hostname,Department
+webserver01,Backend
+webserver02,Frontend
+database04,QA
+ansible,Devops
+scanner,
+activedirectory02,ITOps
+database03,Frontend
+jenkins,
